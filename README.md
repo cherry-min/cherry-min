@@ -5,13 +5,13 @@
 </picture>
 
 
-<a href="https://komarev.com/ghpvc/?username=AlpayC">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=AlpayC&label=Profile%20Views&icon=2&pretty=true" />
+<a href="https://komarev.com/ghpvc/?username=cherry-min">
+    <img align="right" src="https://visitcount.itsvg.in/api?id=cherry-min&label=Profile%20Views&icon=2&pretty=true" />
 </a>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
 
-![GitHub User's stars](https://img.shields.io/github/stars/AlpayC?label=Total%20Stars&color=FF6A3D)
+![GitHub User's stars](https://img.shields.io/github/stars/cherry-min?label=Total%20Stars&color=FF6A3D)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -20,7 +20,7 @@
 </b>
 </h3>
 <p align="center">
-  <a href="https://github.com/AlpayC"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/cherry-min"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
     「 I am a full stack web application developer from <b>Germany</b> 」
@@ -31,13 +31,13 @@
 
 <p align="center">
  <a href="https://alpaycelik.dev" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="cherry-min" />
  </a>
  <a href="https://de.linkedin.com/in/alpay-celik" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlpayC"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cherry-min"/>
  </a>
  <a href="https://discord.com/invite/TqvEDzEv" target="_blank">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AlpayC"/>
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="cherry-min"/>
  </a>
 </p>
 <br />
@@ -51,8 +51,8 @@
 👯 &emsp; I am looking for a <code style="color:#9DAAF2"> frontend developer job</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> and <code style="color:#9DAAF2">Node.js</code><br/><br/>
-📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=hello@alpaycelik.dev"> hello@alpaycelik.dev</a><br/><br/>
-💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/AlpayC/AlpayC/issues">here</a>
+📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=hello@cherry-minelik.dev"> hello@cherry-minelik.dev</a><br/><br/>
+💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/cherry-min/cherry-min/issues">here</a>
 
 </p>
 
@@ -98,7 +98,7 @@
 [![Tasty](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Tasty&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Tasty)
 
 <p align="center">
-  <a href="https://github.com/AlpayC?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-9DAAF2?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/cherry-min?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-9DAAF2?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -106,23 +106,23 @@
 ## My Stats
 
 <p align="center">
-  <a href="https://github.com/AlpayC" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlpayC&theme=codeSTACKr&border=9DAAF2" alt="Alpay's GitHub streak"/>
+  <a href="https://github.com/cherry-min" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry-min&theme=codeSTACKr&border=9DAAF2" alt="Alpay's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlpayC">
-    <img style="border: 2px solid #9DAAF2; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlpayC&theme=codeSTACKr" alt="Alpay's GitHub Contribution"/>
+  <a href="https://github.com/cherry-min">
+    <img style="border: 2px solid #9DAAF2; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherry-min&theme=codeSTACKr" alt="Alpay's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/AlpayC"><img alt="Alpay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AlpayC&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AlpayC"><img alt="Alpay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlpayC&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/cherry-min"><img alt="Alpay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=cherry-min&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/cherry-min"><img alt="Alpay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cherry-min&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-<!-- ![Alpay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlpayC&custom_title=Alpay's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=9DAAF2&line=9DAAF2&point=9DAAF2&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlpayC&custom_title=Alpay's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="Alpay's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
+<!-- ![Alpay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=cherry-min&custom_title=Alpay's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=9DAAF2&line=9DAAF2&point=9DAAF2&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherry-min&custom_title=Alpay's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="Alpay's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
 <a align="center" href="https://www.buymeacoffee.com/alpaycelikdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
