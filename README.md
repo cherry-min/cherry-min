@@ -64,9 +64,7 @@
 
 <p align="center">
   <a>
-    <img height="120" width="140" src="https://github.com/cherry-min/cherry-min/raw/main/assets/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherry-min&theme=dark&hide_border=true" alt="cherry-min"/>
-    <img height="120" width="140" src="https://github.com/cherry-min/cherry-min/raw/main/assets/right.png">
   </a>
 </p>
 <p align="center">
