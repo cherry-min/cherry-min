@@ -59,6 +59,21 @@
 💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/cherry-min/cherry-min/issues">here</a>
 </p>
 
+
+> GitHub Profile Status
+
+<p align="center">
+  <a>
+    <img height="120" width="140" src="https://github.com/cherry-min/cherry-min/raw/main/assets/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherry-min&theme=dark&hide_border=true" alt="cherry-min"/>
+    <img height="120" width="140" src="https://github.com/cherry-min/cherry-min/raw/main/assets/right.png">
+  </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cherry-min&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cherry-min&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+</p>
+
 <br/>
 <br/>
 <br/>
