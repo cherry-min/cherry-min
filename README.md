@@ -15,7 +15,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-   Hey There!, I'm
+   Hey There!, I am
                 <b><a target="_blank" href="https://alpaycelik.dev" style="color:#9DAAF2">cherry-min</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </b>
 </h3>
