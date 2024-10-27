@@ -6,7 +6,7 @@
 
 
 <a href="https://komarev.com/ghpvc/?username=cherry-min">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=cherry-min&label=Profile%20Views&icon=2&pretty=true" />
+    <img align="right" src="https://visitcount.itsvg.in/api?id=cherry-min&label=Profile%20Views&icon=5&pretty=true" />
 </a>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
