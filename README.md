@@ -67,11 +67,10 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherry-min&theme=dark&hide_border=true" alt="cherry-min"/>
   </a>
 </p>
-    ![cherry-min's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherry-min&show_icons=true&theme=radical)  
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cherry-min&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cherry-min&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true"  width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cherry-min&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true"  width="35%">
 </p>
 
 <br/>
